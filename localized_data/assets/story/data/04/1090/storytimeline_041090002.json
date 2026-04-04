@@ -1,0 +1,232 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Verxina",
+            "text": "Terima kasih, Gentildonna-san. Karena bersedia\nmenerima permintaanku untuk Match Race."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Sama-sama. Kupikir ini kesempatan yang baik.\nBukankah begitu? Karena kita berdua――"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Mungkin saja……mirip. Kekuatan itu,\naku benar-benar ingin merasakannya sendiri."
+        },
+        {
+            "name": "Verxina",
+            "text": "Oh, kalau begitu, silakan menikmatinya sepenuh hati.\nHari ini, aku berniat membuktikannya――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Bahwa yang pantas berdiri di 『Puncak』 \nsebagai Ratu, adalah aku.",
+            "choice_data_list": [
+                "(Luar biasa……tidak ada yang mundur)",
+                "(Luar biasa……tidak ada yang mundur)"
+            ]
+        },
+        {
+            "text": "Pada hari itu, setelah balapan Verxina, disebutkan\nbahwa Gentildonna akan menargetkan debutnya."
+        },
+        {
+            "text": "Terlahir dari keluarga terpandang dengan pengaruh \nbesar di dunia politik dan keuangan,\nGentildonna memiliki aura yang kuat."
+        },
+        {
+            "text": "Jika sosok seperti itu debut pada waktu yang sama,\ndia pasti akan menjadi rintangan besar bagi\nVerxina dalam upayanya menuju 『Puncak』――"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Namun harus kukatakan, kau cukup cerdik.\nJika kau tersandung setelah debutmu,\nbayangan itu akan membekas lama dalam kariermu."
+        },
+        {
+            "name": "Verxina",
+            "text": "……Apakah maksudmu aku mungkin menghindari\nmenghadapimu dalam balapan resmi?"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Tergantung hasil hari ini,\nbukan hal aneh jika itu bisa terjadi."
+        },
+        {
+            "name": "Verxina",
+            "text": "Fufuu……kalau begitu, sepertinya aku tak punya\npilihan selain membuktikan siapa di antara kita\nyang seharusnya berlari menjauh."
+        },
+        {
+            "name": "Verxina",
+            "text": "Akan kuukirkan ini dalam dirimu. Bahwa\nada mereka yang cukup kuat untuk\nmembuatmu tersingkir."
+        },
+        {
+            "text": "Dan dengan kerumunan besar yang menyaksikan,\nkeduanya pun melangkah menuju gerbang masing-masing――"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "――Hoo, betapa gagahnya. Kuharap kau\nbisa mempertahankan sikap itu."
+        },
+        {
+            "name": "Verxina",
+            "text": "Oh, sudah menyerah? Tapi aku baru saja mulai――!"
+        },
+        {
+            "name": "Verxina",
+            "text": "Haaaaaa――!!"
+        },
+        {
+            "name": "Trainer Veteran A",
+            "text": "Tidak mungkin……!!\nMeninggalkan Gentildonna sejauh itu!?"
+        },
+        {
+            "name": "Verxina",
+            "text": "(Tentu saja! Yang pantas berdiri di 『Puncak』 adalah aku!\nSeperti ini……hingga lintasan terakhir――)"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Fufu……Ahahahaa! Sungguh luar biasa, ini\nberarti ada nilai dalam menghancurkanmu――"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Hmmmph!!!!!!!"
+        },
+        {
+            "name": "Verxina",
+            "text": "(Tidak mungkin……langkah kaki itu……!?)"
+        },
+        {
+            "name": "Verxina",
+            "text": "(Kupikir aku sudah meninggalkannya……\ndia seharusnya tak bisa menyusul.\nDan garis finis sudah tepat di depanku……!)"
+        },
+        {
+            "name": "Verxina",
+            "text": "(Semakin dekat……suara itu……aku bisa\nmerasakannya bergetar――)"
+        },
+        {
+            "name": "Verxina",
+            "text": "――……Hii."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "――Haaaaaaaaaaaaa!!"
+        },
+        {
+            "name": "Trainer Veteran A",
+            "text": "Gentildonna!!!! Kekuatan yang luar biasa!\nDan waktunya pun tepat untuk bertarung……!"
+        },
+        {
+            "name": "Verxina",
+            "text": "Tidak mungkin……!!!!\nAku akan kalah……itu tak mungkin……!!!!"
+        },
+        {
+            "name": "Verxina & Gentildonna",
+            "text": "――U……waaaaaaaaaaaah!!!!\n――Aaaaaaaaaaaaaaaaaaaaa!!!!"
+        },
+        {
+            "name": "Verxina",
+            "text": "……Haaa, haaa, haaa ……*uhuk*."
+        },
+        {
+            "name": "Gentildonna",
+            "text": " Oh, ampun. Betapa tidak anggunnya.\nAku sedikit menaruh harapan lebih padamu……"
+        },
+        {
+            "name": "Verxina",
+            "text": "…………"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "……Kurasa tak perlu lagi bertukar kata\ndengan seseorang yang begitu\nterpuruk. Kalau begitu, semuanya――aku pamit."
+        },
+        {
+            "name": "Verxina",
+            "text": "Ugh…………",
+            "choice_data_list": [
+                "(Verxina……)"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "Semuanya……aku minta maaf.\nAku akan menolak semua tawaran scouting……"
+        },
+        {
+            "name": "Trainer Veteran A",
+            "text": "Tidak bisa begitu! Apa ini karena kau\nkalah dari Gentildonna? Tapi, mulai\nsekarang kau bisa memperkecil selisih itu――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Tidak! Itu……bukan alasannya."
+        },
+        {
+            "name": "Verxina",
+            "text": "Dengan keadaan seperti ini, aku tak bisa debut……\nBagaimanapun, untuk saat ini……"
+        },
+        {
+            "name": "Verxina",
+            "text": "Maafkan aku, mohon permisi……!",
+            "choice_data_list": [
+                "Ah……tunggu――!"
+            ]
+        },
+        {
+            "text": "Aku segera mengejar Verxina yang berlari pergi.\nApa pun yang terjadi, aku tetap ingin merekrutnya."
+        },
+        {
+            "text": "Memang, kekuatan Gentildonna benar-benar luar biasa.\nWajar jika Umamusume biasa merasa gentar."
+        },
+        {
+            "text": "Apakah Verxina juga sama? Apakah dia akan menyerah\nsetelah merasakan langsung kekuatan Gentildonna?",
+            "choice_data_list": [
+                "(Tapi, dari yang kulihat, dia――)",
+                "(Tapi, dari yang kulihat, dia――)"
+            ]
+        },
+        {
+            "text": "Dia selalu berusaha dengan sungguh-sungguh\ndalam segala hal demi tujuannya mencapai 『Puncak』."
+        },
+        {
+            "text": "Dia akan mencoba lagi dan lagi sampai puas.\nBenarkah gadis seperti itu akan menyerah pada\ndebutnya hanya karena satu kekalahan……?",
+            "choice_data_list": [
+                "(Tidak! Tak mungkin dia――)"
+            ]
+        },
+        {
+            "text": "Namun, ketika akhirnya kutemukan dia\ndi belakang gedung sekolah――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Aku……kenapa aku……?",
+            "choice_data_list": [
+                "(Eh……?)"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "Kenapa……aku lari……?"
+        },
+        {
+            "text": "……Aku tak sanggup memanggilnya."
+        },
+        {
+            "text": "Dia tampak sangat frustrasi. Aku yakin dia akan terus \nmelangkah maju dengan kegigihan.\nNamun, saat ini dia――",
+            "choice_data_list": [
+                "<size=38>(Mungkin dia hanya sedikit terguncang……?)</size>"
+            ]
+        },
+        {
+            "text": "Mengapa dia tiba-tiba menolak tawaran perekrutan?\nSeolah-olah bahkan dia sendiri tak tahu alasannya."
+        },
+        {
+            "text": "Sikapnya yang menarik diri seperti anak yang\ntersesat sama sekali tak cocok dengan\nkesanku sebelumnya tentang dirinya."
+        },
+        {
+            "text": "Dia selalu tampak bangga dan bermartabat,\nlalu mengapa sekarang dia begitu hancur?\nUntuk mengetahuinya――",
+            "choice_data_list": [
+                "<size=38>(Aku harus mengenalnya lebih jauh……!)</size>"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ehh～～ jadi kamu penasaran sampai segitunya, ya?\nHmm～ kira-kira aku harus bagaimana ya～♪?"
+        },
+        {
+            "name": "Vivlos",
+            "text": "Kalau begitu, Trainer-san～\nDengarkan semua yang aku katakan! Oke♪?"
+        }
+    ]
+}
