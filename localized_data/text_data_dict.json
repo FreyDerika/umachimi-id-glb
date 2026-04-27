@@ -1030,7 +1030,8 @@
     "1156": "Lirik : Ichihashi Takuya & Satō Haruka (Cygames)\\nKomposisi & Aransemen: Ichihashi Takuya (Cygames)",
     "1175": "Lirik & Komposisi : Ikeda Takehito (Cygames)\\nAransemen : Kohei Tsukada\\nAransemen string : Ichihashi Takuya (Cygames)\n",
     "1177": "Lirik, Komposisi, Aransemen：Lucas Nainemoutou (Cygames)",
-    "9051": "Kosong"
+    "9051": "Kosong",
+        "1037": "Lirik: Yuriko Mori\\nMusic / Armasemen: Hidekazu Tanaka (MONACA)"
   },
   "23": {
     "1": "Sepatu Sprint",
@@ -11341,7 +11342,17 @@
     "2": "Hamburger Stik Wortel Deluxe",
     "3": "Seikat Wortel",
     "4": "Wortel",
-    "5": "Tisu"
+    "5": "Tisu",
+        "1001": "Swafoto Dengan Ibu ( saat ia pulang )",
+        "1003": "Swafoto dengan Prez ( Mood Berubah )",
+        "1006": "Foto ia dengan ibunya , saat belajar",
+        "1013": "Layar Kunci Keluarga Mejiro , Beranda-nya adalah kunci rahasia",
+        "1014": "Koleksi Quote \" Saya Akan Lawan! \"",
+        "1015": "Potret dengan Overlord",
+        "1017": "Foto akademi dari jendela kantor OSIS",
+        "1018": "Foto ibunya saat Takjub",
+        "1023": "Foto diambil oleh Ticket & Taishin",
+        "1024": "Selfie dengan Trainer ♪"
   },
   "180": {
     "1": "Buku Trainer",
@@ -13840,5 +13851,11 @@
         "9001": "Gabung server Discord resmi untuk terhubung dengan trainer lain!",
         "9002": "Ayo cek situs resmi kami!",
         "9003": "Saksikan aksi para Umamusume di saluran Youtube resminya!"
+    },
+    "173": {
+        "9001": "Sekertaris",
+        "9004": "Pelatih",
+        "9005": "Tukang Pijat ( Katanya ... )",
+        "9006": "Pelatih"
     }
 }
